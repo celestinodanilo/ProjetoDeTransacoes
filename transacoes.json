@@ -1,0 +1,14 @@
+[
+    {
+        "descricao": "Receita de bolo",
+        "valor": 150.0,
+        "tipo": "receita",
+        "data": "28/09/2026 15:36"
+    },
+    {
+        "descricao": "Produto de limpeza",
+        "valor": 80.0,
+        "tipo": "despesa",
+        "data": "28/09/2026 15:36"
+    }
+]
